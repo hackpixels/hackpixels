@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/hackpixels/hello-world/blob/main/kaya-scodelario-skins.gif" width="600" />
+  <img src="https://github.com/hackpixels/hackpixels/blob/main/kaya-scodelario-skins.gif" width="600" />
 </p>
 
 <br>
